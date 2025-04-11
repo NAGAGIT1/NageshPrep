@@ -1,5 +1,3 @@
 # NageshPrep
 hello
-Hi
-This is my line from GITHUB!!!!
-pull
+This is my line from GITHUB!!!
